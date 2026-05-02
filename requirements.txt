@@ -9,3 +9,4 @@ ucimlrepo
 nbformat
 nbclient
 statsmodels
+xgboost
